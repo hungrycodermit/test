@@ -9,5 +9,4 @@ webpage
 <style>
 body{bg-color:red;text-align:center}
 </style>
-
 </html>
